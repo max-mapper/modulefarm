@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maxogden/modulefarm/issues"
   },
-  "homepage": "https://github.com/maxogden/modulefarm#readme"
+  "homepage": "https://github.com/maxogden/modulefarm#readme",
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
 }
