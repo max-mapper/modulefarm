@@ -1,0 +1,19 @@
+{
+  "name": "modulefarm",
+  "version": "1.0.0",
+  "description": "curated lists of modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/modulefarm.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/maxogden/modulefarm/issues"
+  },
+  "homepage": "https://github.com/maxogden/modulefarm#readme"
+}
