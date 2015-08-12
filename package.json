@@ -4,7 +4,8 @@
   "description": "curated lists of modules",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "node check.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,10 @@
   "homepage": "https://github.com/maxogden/modulefarm#readme",
   "dependencies": {
     "marked": "^0.3.5"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.0",
+    "get-package-readme": "^1.0.0",
+    "run-parallel": "^1.1.2"
   }
 }
